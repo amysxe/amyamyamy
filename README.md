@@ -1,1 +1,1 @@
-# amyamyamy
+ini kalau mau input actor/director/writer itu langsung otomatis muncul dari database. nah, gimana caranya kalau mau input langsung di form itu actor/director/writer yang belum ada di database? jadi, daripada cuma bisa manggil yang uda ada, sekalian input baru aja kalo belum ada di database.
